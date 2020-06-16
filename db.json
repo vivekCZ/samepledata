@@ -1,0 +1,70 @@
+{
+  "live_version": "1.5",
+  "adType": "appLovin",
+  "update_message": "Please update to the latest version of application and enjoy new feature",
+  "totalVideoAdsCount": 2,
+  "totalFullPageAdsCount": 2,
+  "isParticalAd": true,
+  "levels": [
+    {
+      "levelName": "SPIN & COIN",
+      "apiname": "https://jsonblob.com/api/54c2dab1-a95d-11ea-b0cf-09039a5617ee",
+      "levelImage": "https://drive.google.com/uc?export=download&id=1BFBlEBd32X5fdQ4QvzXLDLLjuom7gxzk",
+      "requiredPoints": 1000,
+      "maxPoints": 15,
+      "slowBall": 30,
+      "minusBall": 6,
+      "animationDuration": 5.5,
+      "slowball_duration": 20,
+      "rotation_enable": false,
+      "numberofball": 8,
+      "levelInfo": "This is the reward level. You can earn free spins and coins for coin master from this level",
+      "levelType": "reward"
+    },
+    {
+      "levelName": "Tips & Tricks",
+      "apiname": "https://jsonblob.com/api/04048b2c-ad35-11ea-95e6-aff0d5fd5019",
+      "levelImage": "https://drive.google.com/uc?export=download&id=12eD4TVC1WiALXUs1vrqUHnP7hJbz448D",
+      "requiredPoints": 1000,
+      "maxPoints": 15,
+      "slowBall": 30,
+      "minusBall": 6,
+      "animationDuration": 5.5,
+      "slowball_duration": 20,
+      "rotation_enable": false,
+      "numberofball": 8,
+      "levelInfo": "Helpfull tips and tricks that can boost your game.",
+      "levelType": "tips"
+    },
+    {
+      "levelName": "BASIC MODE",
+      "levelImage": "https://drive.google.com/uc?export=download&id=1Gi-DXPbQldzrkTODD4zOYH3fH9yGr4DE",
+      "requiredPoints": 1000,
+      "maxPoints": 15,
+      "slowBall": 30,
+      "minusBall": 6,
+      "animationDuration": 5.5,
+      "slowball_duration": 20,
+      "rotation_enable": false,
+      "numberofball": 8,
+      "levelInfo": "Difficulty level will be low. Maximum points that can be earn from a ball will be 15. Speed of the ball will be slow.",
+      "levelType": "game",
+      "apiname": ""
+    },
+    {
+      "levelName": "FAIR MODE",
+      "levelImage": "https://drive.google.com/uc?export=download&id=1_BIJ8kiD-lypr5o_QoNMXJVJ9jWMexI9",
+      "requiredPoints": 5000,
+      "maxPoints": 30,
+      "slowBall": 50,
+      "minusBall": 8,
+      "animationDuration": 4.8,
+      "slowball_duration": 20,
+      "rotation_enable": false,
+      "numberofball": 9,
+      "levelInfo": "Difficulty level will be low. Maximum points that can be earn from a ball will be 30. Speed of the ball will be slow.",
+      "levelType": "game",
+      "apiname": ""
+    }
+  ]
+}
